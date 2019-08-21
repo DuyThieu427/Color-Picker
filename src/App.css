@@ -1,0 +1,24 @@
+.active {
+  border: solid 3px black;
+}
+
+#content {
+  padding: 10px;
+  border: solid 3px red;
+}
+
+span {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.bg-red{background: red;}
+.bg-blue{background: blue;}
+.bg-green{background: green;}
+.bg-gray{background: #ccc;}
+.text-red{color:red;}
+.text-blue{color:blue;}
+.text-green{color:green;}
+.text-gray{color:gray;}
+
